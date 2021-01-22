@@ -1,6 +1,13 @@
-# Degree
+
+- degree: Wizarding 
+  uni: Hogwarts
+  year: The Year of the Great War
+  # awards:
+  # summary: Hogwarts is very dangerous
+
 - degree: Full Stack Webdeveloper Nanodegree
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
   awards: Most Dedicated Student per Optional Activities Completed
   summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+
